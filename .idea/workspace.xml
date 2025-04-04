@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21dffc68-ca89-4775-afc4-b7952e057d4e" name="Changes" comment="One" />
+    <list default="true" id="21dffc68-ca89-4775-afc4-b7952e057d4e" name="Changes" comment="fix: Merge branches" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +54,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Develop",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/luizg/IdeaProjects/Smart-Tv",
     "onboarding.tips.debug.path": "C:/Users/luizg/IdeaProjects/Smart-Tv/src/main/java/org/example/Main.java"
   },
   "keyToStringList": {
@@ -163,11 +164,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743792896496</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: Merge branches">
+      <option name="closed" value="true" />
+      <created>1743795921634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743795921635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="One" />
-    <option name="LAST_COMMIT_MESSAGE" value="One" />
+    <MESSAGE value="fix: Merge branches" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: Merge branches" />
   </component>
 </project>
