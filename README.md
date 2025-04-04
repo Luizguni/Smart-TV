@@ -10,16 +10,7 @@ Linguagem: Java
 
 IDE: IntelliJ
 
-📁 Estrutura do Projeto
 
-SmartTV-Simulator/
-│── src/
-│   ├── org/example/
-│   │   ├── Main.java
-│   │   ├── SmartTv.java
-│── README.md
-│── .gitignore
-│── pom.xml
 
 🖥️ Como Funciona
 
