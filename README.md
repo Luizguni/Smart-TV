@@ -1,37 +1,29 @@
-Smart TV Simulator
+# Projeto Smart TV
 
-Sobre o Projeto
+Este projeto simula o funcionamento de uma Smart TV com funcionalidades básicas como:
 
-Este é um simulador simples de uma Smart TV desenvolvido em Java. O projeto demonstra conceitos básicos de orientação a objetos, incluindo classes, métodos e manipulação de atributos.
+- Ligar e desligar a TV
+- Aumentar e diminuir volume
+- Mudar canal direto ou sequencialmente
 
-Tecnologias Utilizadas
+## Tecnologias
 
-Linguagem: Java
+- Java 17+
+- IntelliJ IDEA (ou outra IDE de sua preferência)
 
-IDE: IntelliJ
+## Estrutura do projeto
 
+- `SmartTv.java` → Contém os métodos e atributos que representam a TV
+- `Main.java` → Classe principal que testa o comportamento da TV
 
+## Como executar
 
- Como Funciona
-
-O projeto consiste em duas classes principais:
-
-SmartTv: Representa a TV, contendo atributos e métodos para manipular o canal, volume e estado de liga/desliga.
-
-Main: Classe principal que instancia um objeto SmartTv e interage com ele através dos métodos disponíveis.
-
- Funcionalidades
-
-Ligar e desligar a TV
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Luizguni/Smart-TV.git
 
 
 Autor
 
 **Luiz Guni**  
 [Linkdin](https://www.linkedin.com/in/luizguni/)
-
-Aumentar e diminuir o volume
-
-Mudar o canal para um número específico
-
-Avançar ou retroceder canais
