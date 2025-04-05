@@ -24,6 +24,12 @@ Main: Classe principal que instancia um objeto SmartTv e interage com ele atrav�
 
 Ligar e desligar a TV
 
+
+Autor
+
+**Luiz Guni**  
+[Linkdin](https://www.linkedin.com/in/luizguni/)
+
 Aumentar e diminuir o volume
 
 Mudar o canal para um número específico
