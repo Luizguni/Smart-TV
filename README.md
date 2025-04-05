@@ -1,10 +1,10 @@
 Smart TV Simulator
 
-📌 Sobre o Projeto
+Sobre o Projeto
 
 Este é um simulador simples de uma Smart TV desenvolvido em Java. O projeto demonstra conceitos básicos de orientação a objetos, incluindo classes, métodos e manipulação de atributos.
 
-🚀 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Linguagem: Java
 
@@ -12,7 +12,7 @@ IDE: IntelliJ
 
 
 
-🖥️ Como Funciona
+ Como Funciona
 
 O projeto consiste em duas classes principais:
 
@@ -20,7 +20,7 @@ SmartTv: Representa a TV, contendo atributos e métodos para manipular o canal, 
 
 Main: Classe principal que instancia um objeto SmartTv e interage com ele através dos métodos disponíveis.
 
-🛠️ Funcionalidades
+ Funcionalidades
 
 Ligar e desligar a TV
 
