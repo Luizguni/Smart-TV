@@ -9,7 +9,7 @@ Este projeto simula o funcionamento de uma Smart TV com funcionalidades básicas
 ## Tecnologias
 
 - Java 17+
-- IntelliJ IDEA (ou outra IDE de sua preferência)
+- IntelliJ IDEA 
 
 ## Estrutura do projeto
 
